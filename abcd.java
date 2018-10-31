@@ -1,2 +1,2 @@
-this is my first java program
+this is my second java program
 how are you
